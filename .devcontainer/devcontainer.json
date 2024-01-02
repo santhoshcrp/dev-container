@@ -1,0 +1,7 @@
+{
+    "name": "my-sql",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "my-sql-service",
+    "workspaceFolder": "/",
+    "shutdownAction": "stopCompose"
+}
